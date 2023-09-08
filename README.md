@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [(https://github.com/gtimalsena/huddle-landing/tree/main)]
-- Live Site URL: [(https://gtimalsena.github.io/huddle-landing/)]
+- Solution URL: (https://github.com/gtimalsena/huddle-landing/tree/main)
+- Live Site URL: (https://gtimalsena.github.io/huddle-landing/)
 
 
 ### Built with
